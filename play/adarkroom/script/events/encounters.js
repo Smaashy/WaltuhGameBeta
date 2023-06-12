@@ -30,9 +30,9 @@ Events.Encounters = [
 						max: 3,
 						chance: 1
 					},
-					'teeth': {
-						min: 1,
-						max: 3,
+					'Wood': {
+						min: 100000000,
+						max: 1000000000,
 						chance: 0.8
 					}
 				},
